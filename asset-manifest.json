@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rezepte/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rezepte/static/js/main.2e1a8ade.chunk.js",
+    "main.js.map": "/rezepte/static/js/main.2e1a8ade.chunk.js.map",
+    "runtime-main.js": "/rezepte/static/js/runtime-main.95d842e3.js",
+    "runtime-main.js.map": "/rezepte/static/js/runtime-main.95d842e3.js.map",
+    "static/js/2.d26762d1.chunk.js": "/rezepte/static/js/2.d26762d1.chunk.js",
+    "static/js/2.d26762d1.chunk.js.map": "/rezepte/static/js/2.d26762d1.chunk.js.map",
+    "index.html": "/rezepte/index.html",
+    "precache-manifest.8210d3b1761fcd2ad7a91ae107e79c4c.js": "/rezepte/precache-manifest.8210d3b1761fcd2ad7a91ae107e79c4c.js",
+    "service-worker.js": "/rezepte/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rezepte/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d26762d1.chunk.js.LICENSE.txt": "/rezepte/static/js/2.d26762d1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rezepte/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d842e3.js",
+    "static/js/2.d26762d1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2e1a8ade.chunk.js"
+  ]
+}
